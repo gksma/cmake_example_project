@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gksma/cmake_example_project/build",
+  "command": "/usr/bin/c++    -g   -Wall -Wextra -Wpedantic -Werror -std=c++2a -o CMakeFiles/CMAKE_TEST_PROJECT_MAIN.dir/main.cpp.o -c /home/gksma/cmake_example_project/main.cpp",
+  "file": "/home/gksma/cmake_example_project/main.cpp"
+}
+]
